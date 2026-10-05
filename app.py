@@ -1452,7 +1452,7 @@ else:
     print("None")
 
 
-print("\nRelevant Experience:")
+print("\nCandidate Experience:")
 
 if project_count > 0:
     print("- Project experience identified:")
